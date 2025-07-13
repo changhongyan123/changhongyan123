@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **changhongyan0530@gmail.com**
 
-- 📄 Know about my experiences ([https://www.comp.nus.edu.sg/~hongyan/](https://changhongyan123.github.io/))
+- 📄 Know about my experiences [https://changhongyan123.github.io/](https://changhongyan123.github.io/)
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
